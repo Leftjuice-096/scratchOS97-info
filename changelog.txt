@@ -1,0 +1,8 @@
+[What's new in scratchOS 1.18 (Security Update 1)?]
+  Added features:
+    -Hashing passwords for more security
+    -Dynamic Settings
+  Bug fixes:
+    -Fixed "Install Update" button not working
+    -Fixed redirect errors (fixed in 1.17.0a)
+    -Multiple instances of "filesystem.cfg" getting generated.
